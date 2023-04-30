@@ -11,6 +11,7 @@
     <modules>
         <module>im-common-api</module>
         <module>im-gateway</module>
+        <module>im-user-provider</module>
     </modules>
 
 
